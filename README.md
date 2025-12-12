@@ -1,0 +1,2 @@
+# An-Intelligent-and-Optimized-AI-Framework-for-Mental-Health-Risk-Identification
+“An Intelligent and Optimized AI Framework for Mental Health Risk Identification” is an AI-driven system that uses NLP and transformer-based models to detect emotions from user text, map them to low/moderate/high risk levels, and provide empathetic, positively reframed responses. It supports real-time feedback, explainability, scalable, deployment.
